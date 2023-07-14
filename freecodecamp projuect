@@ -1,0 +1,44 @@
+<head>
+    <meta charset="UTF-8" />  <header id="header"> <nav id="nav-bar">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Learn HTML</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body class="main" id="main-doc" id="JayMar Travels">
+   
+     <title>JayMar Travels</title>
+       <ul>
+         <li><a class="nav-link" href="#Products">Products</a></li>
+         <li><a class="nav-link" href="#Travel">Travel Photos</a></li>
+         <li><a class="nav-link" href="#About">About Us</a></li>
+         <li><a class="nav-link" href="#Videos">Videos</a></li>
+         <li><a class="nav-link" href="#Plan">Plan your next Trip</a></li>
+             <li><a class="nav-link" href="#footer">Footer</a></li>
+         </ul>
+      </nav> 
+      <body>
+        <img id="header-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwZYVgaFKZdj98-gZVcP-k7giFmdvhR7eTFilB3x0trzGu9lNWVQmErYOeTYcqucn8qnw&usqp=CAU" alt="Jaymar travels logo" /> </header>
+     <main id="main-doc">
+     <section class="main-section" id="Products">
+       <header id="header">Products</header>
+       <p>We will have shirts, hats and other products for sale in this section.</p>
+       </section>
+      <section class="main-section" id="Travel">
+        <header id="header">Travel Photos</header>
+        </section>
+       <section class="main-section" id="About">
+         <header id="header">About Us</header>
+         <p><h3>Hello and welcome to our site My name is Jason and my wife is Marsha, together we make up JayMar Travels. We love to travel. The mountains to the beach, cruises and everything in between. Please join us on our adventures.</h3></p>
+         </section>
+        <section class="main-section" id="Videos">
+          <header>video</header>
+           <video   id="video" src="https://www.youtube.com/watch?v=Js-sc8ZRIGE" alt="Hotel room tour"></video><p>Watch our videos</p>
+       </section>
+         <section class="main-section" id="Plan">
+           <header>Plan your next Trip</header>
+      <p>When you are ready to plan your next vacation we are here to help. So when you are ready to take that step, just give us a call or shoot us an email. We can't wait to hear from you.     
+           </section>
+           </main>
+     </body>><form id="form" action="https://www.freecodecamp.com/email-submit" 
+     <label for="email"> <input id="email" type="email" name="email" required placeholder="email"/>Enter Your Email:</label><input id="submit" type="submit" value="Submit" name="submit" </input>
+ </form><footer id="footer">Thank you for your support</footer>
